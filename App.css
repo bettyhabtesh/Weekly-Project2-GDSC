@@ -1,0 +1,50 @@
+/** @format */
+
+* {
+  font-family: "Courier New", Courier, monospace;
+  background-color: bisque;
+}
+h1 {
+  margin-left: 40%;
+  margin-top: 5%;
+  color: rgb(80, 240, 80);
+}
+.productcontainer {
+  font-weight: bolder;
+  display: contents;
+  justify-content: space-around;
+}
+
+.shoe {
+  padding-top: 5%;
+  padding-left: 10%;
+  width: 150px;
+  height: 180px;
+  margin-left: 5%;
+}
+button {
+  margin-left: 5%;
+  background-color: red;
+  border-radius: 5px;
+  border: none;
+  font-weight: bolder;
+  box-shadow: none;
+}
+
+button:hover {
+  background-color: rgb(80, 240, 80);
+}
+/*
+span {
+  padding: 5%;
+}
+.adidas {
+  margin-left: 10%;
+}
+.nike {
+  margin-left: 5%;
+}
+.sketcher {
+  margin-left: 5%;
+}
+*/
